@@ -1,0 +1,23 @@
+{
+  "name": "Photography_Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantinacode/PhotographyPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konstantinacode/PhotographyPortfolio/issues"
+  },
+  "homepage": "https://github.com/konstantinacode/PhotographyPortfolio",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
